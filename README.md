@@ -63,7 +63,7 @@ fullstack-todo/
 │   │   ├── types/
 │   │   └── app.ts
 │   ├── package.json
-│   └── README.md
+|
 ├── frontend/
 │   ├── src/
 │   │   ├── components/
@@ -73,7 +73,7 @@ fullstack-todo/
 │   │   ├── lib/
 │   │   └── App.tsx
 │   ├── package.json
-│   └── README.md
+|
 └── README.md
 ```
 
